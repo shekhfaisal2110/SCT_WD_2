@@ -65,8 +65,8 @@ src/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/shekhfaisal2110/SCT_WD_1.git
-cd SCT_WD_1
+git clone https://github.com/shekhfaisal2110/SCT_WD_2.git
+cd SCT_WD_2
 ```
 
 ### 2. Install dependencies
